@@ -1,0 +1,23 @@
+# Binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+todolist-api
+
+# Test binary
+*.test
+
+# Output of go coverage
+*.out
+
+# Environment
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
